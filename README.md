@@ -34,4 +34,4 @@ Airbnb Market Analysis — Cleaned a 49,000+ row dataset and built ETL pipelines
 
 📫 Connect with me
 
-LinkedIn · sbutello@syr.edu
+https://www.linkedin.com/in/sheneal-butello/· shenealbutello01@gmail.com
