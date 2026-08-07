@@ -1,37 +1,53 @@
-Hi, I am Sheneal 👋
+# Hi, I’m Sheneal Butello 👋
 
-Data Analyst / Data Engineer | M.S. Information Systems, CAS Data Science @ Syracuse University
+**Data Analyst | Business Intelligence Analyst**
 
-I turn messy, large-scale datasets into clean pipelines, models, and dashboards that drive real decisions  from utility billing records for NYC public housing to fraud detection on 100K+ transactions.
+Recent M.S. in Information Systems graduate from Syracuse University with experience transforming data into validated datasets, KPI dashboards, and actionable business insights.
 
+I work with SQL, Python, Power BI, Tableau, and Excel across data cleaning, exploratory analysis, visualization, reporting, and stakeholder communication.
 
-🎓 M.S. Information Systems, Syracuse University (May 2026)
-🔭 Currently working on Research Analyst for School of information Studies
-🌱 Recent focus: ETL pipelines, machine learning for forecasting/risk, and BI dashboards
-📊 Comfortable across the full stack: data cleaning → modeling → visualization → reporting
+## 🛠️ Technical Skills
 
+* **Programming:** Python, SQL, R
+* **Analytics:** Power BI, Tableau, Excel, Pandas, NumPy, ETL, KPI Reporting, Exploratory Data Analysis
+* **Databases:** MySQL, PostgreSQL, Snowflake
+* **Data Warehousing:** dbt, dimensional modeling, star schemas, data validation
+* **Cloud and Tools:** AWS S3, Azure, Git, GitHub, Jira, Jupyter Notebook
 
+## 📌 Featured Projects
 
-🛠️ Tech Stack
+### [Wealth Management Client Portfolio & Retention Dashboard](https://github.com/Sheneal251/wealth-management-client-retention-powerbi)
 
-Languages: Python · SQL · R · PHP · HTML/CSS
-Data/ML: pandas · NumPy · scikit-learn · TensorFlow
-Visualization: Tableau · Power BI · Matplotlib · Seaborn · Plotly
-Databases: MySQL · PostgreSQL · MongoDB · DynamoDB · AWS S3 · Azure
-Tools: Git/GitHub · Docker · Kubernetes · Jenkins · Jira · Linux
+Developed a two-page Power BI dashboard using 10,000 public customer records. Cleaned and validated the data in Power Query, created customer segments, and wrote DAX measures to analyze net assets, portfolio returns, product adoption, retention, and churn.
 
+**Tools:** Power BI, Power Query, DAX, CSV
 
-📌 Featured Projects
+### [Urban Air Quality & Climate Analysis](https://github.com/Sheneal251/Urban-Air-Quality)
 
+Analyzed environmental and weather data across 10 U.S. cities using Python, SQL, Excel, and Tableau. Identified heat index as the strongest predictor associated with changes in Heat Risk Score and communicated geographic and weather-related patterns through visualizations.
 
-NYCHA Utility Consumption & Cost Analysis — Consolidated 680K+ billing records across six utility categories; built a Tableau dashboard cutting trend-spotting time from days to under 10 minutes and flagging $1.2M+ in potential savings.
-Urban Air Quality & Climate Analysis — Cleaned a 1,000-row, 44-variable multi-city dataset and trained a Random Forest model predicting heat-health risk with 85% accuracy.
-Forecasting Residential Energy Demand Under Extreme Heat — Modeled hourly energy usage across 50 homes, simulated a +5°F heatwave scenario, and recommended a strategy to cut peak load by 12 kW.
-Credit Card Fraud Detection — Built a tuned Random Forest model on 100K+ transactions achieving 92% precision.
-Airbnb Market Analysis — Cleaned a 49,000+ row dataset and built ETL pipelines to surface pricing/demand trends projected to lift revenue 10–12%.
+**Tools:** Python, SQL, Excel, Tableau
 
+### [NYCHA Utility Consumption & Energy Analysis](https://github.com/Sheneal251/NYCHA-Utility-Consumption-Energy-Analysis-)
 
+Built an interactive utility-analysis dashboard covering steam, water, electricity, and heating gas. Created utility-selection parameters, KPI views, conditional tables, and borough-level comparisons.
 
-📫 Connect with me
+**Tools:** Tableau, Excel, Data Cleaning, KPI Analysis
 
-https://www.linkedin.com/in/sheneal-butello/· shenealbutello01@gmail.com
+### Education Analytics Data Warehouse
+
+Designed an analytics warehouse using Snowflake and dbt. Developed staging, operational, normalized, and dimensional layers; created three star schemas; documented a Kimball bus matrix; and incorporated data-quality testing.
+
+**Tools:** Snowflake, dbt, SQL, Dimensional Modeling
+
+## 💼 Experience Highlights
+
+* Built KPI dashboards and analyzed event-registration and website-engagement data for the PMI Syracuse Chapter through iConsult Collaborative.
+* Conducted multi-city environmental analysis and presented findings through Tableau visualizations at the NEXIS Student Technology Lab.
+* Translated analytical findings into clear reporting for technical and nontechnical audiences.
+
+## 📫 Connect With Me
+
+* [LinkedIn](https://www.linkedin.com/in/sheneal-butello/)
+* [GitHub](https://github.com/Sheneal251)
+* Email: [shenealbutello01@gmail.com](mailto:shenealbutello01@gmail.com)
