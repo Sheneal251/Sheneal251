@@ -34,12 +34,6 @@ Built an interactive utility-analysis dashboard covering steam, water, electrici
 
 **Tools:** Tableau, Excel, Data Cleaning, KPI Analysis
 
-### Education Analytics Data Warehouse
-
-Designed an analytics warehouse using Snowflake and dbt. Developed staging, operational, normalized, and dimensional layers; created three star schemas; documented a Kimball bus matrix; and incorporated data-quality testing.
-
-**Tools:** Snowflake, dbt, SQL, Dimensional Modeling
-
 ## 💼 Experience Highlights
 
 * Built KPI dashboards and analyzed event-registration and website-engagement data for the PMI Syracuse Chapter through iConsult Collaborative.
