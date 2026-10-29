@@ -17,7 +17,7 @@ I use Python, SQL, Power BI, Tableau, and Excel across analytics, reporting, dat
 
 ## 📌 Featured Projects
 
-### Medical AI Failure Analysis | Qwen2.5-1.5B-Instruct
+### [Medical AI Failure Analysis | Qwen2.5-1.5B-Instruct](https://github.com/Sheneal251/-Medical-AI-Failure-Analysis)
 
 Evaluated an open-source language model using 30 medical questions from the MedQuAD dataset. Compared generated responses with reference answers and identified errors involving genetic inheritance and medical procedure recommendations. Tested different question phrasings to examine how response accuracy and consistency changed.
 
